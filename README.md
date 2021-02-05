@@ -72,3 +72,5 @@ Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
 - 📊 Statistics
 - 💰 Finance
 - ♾ Mathematical Analysis (Like why we can integrate a Brownian motion r.v.)
+
+###### One last thing - I offer services as a paid consultant.

@@ -41,7 +41,7 @@ Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
   - Azure
   - GCP
   - Heroku
-- 📈 Tracking/SEO
+- 📈 Tracking/SEO - I work well with SEO specialists for their goals (who don't know tech much)
   - Structured Data
   - Page Audits
   - Website SEO/Speed enhancements
@@ -50,10 +50,11 @@ Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
   - WordPress
   - Webflow
   - Netlify (CMS)
+  - WIX
 - 📎 Google Apps Engine (With integration with Spreadsheets/Forms - I am serious. Ideation is very important.)
 - 💎 Full Stack Hardcoder
 - 🐧 Linux User
-  - Ubuntu, Kali, Raspbian...
+  - Ubuntu, Kali, Raspbian, Fedora...
   - Raspbarry PI & Pinebook Pro user
 
 ### (Strong) Preferences
@@ -63,6 +64,7 @@ Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
 - `'` > `"` (Except HTML attributes)
 - `YAML` > `JSON`
 - Always make good use of URI when sharing things.
+- https://www.google.com/search?q=your+problem+here
 
 ### Other Stuff
 - 🎓 Actuarial Science (That's my undergraduate degree, took the first five examinations but has just given up 🤷🏻‍♂️)

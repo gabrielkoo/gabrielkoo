@@ -2,60 +2,73 @@
 
 Account | Link
 ---|---
-Email | hi@gabrielkoo.com
+Email | [hi@gabrielkoo.com](mailto:hi@gabrielkoo.com?title=Hi%20Gabriel)
 LinkedIn | https://www.linkedin.com/in/gabriel-koo/
-GitHub | https://github.com/gabrielkoo (But you are already here right)
-Twitter | https://twitter.com/gabrielkoo_
+GitHub | [@gabrielkoo](https://github.com/gabrielkoo) (But you are already here right)
+Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
 
 ## What I (may) know about:
 
 ### Languages
-- Cantonese
-- English
-- Japanese (N4 but ~native~ fluent speaker)
-- Python: django, django-rest-framework, OpenCV, selenium, scikit-learn
-- NodeJS / JavaScript: React, Material UI, Gatsby, d3, jQuery (I'm sorry)
-- Used before but basically zero knowledge now if I'm without Google:
+- 🇭🇰 Cantonese
+- 🇬🇧 English
+- 🇯🇵 Japanese (N4 but ~native~ fluent speaker)
+- 🐍 Python: django, django-rest-framework, OpenCV, selenium, scikit-learn
+- 🕸 NodeJS / JavaScript: React, Material UI, Gatsby, d3, jQuery (I'm sorry)
+- 🤯 Used before but basically zero knowledge now if I'm without Google:
   - VBA
   - PHP
   - MATLAB
   - R
   - Java
   - C++
-- SQL should be an essential skill right
+- 🔍 SQL should be an essential skill right 🧐
 
 ### Knowledge
-- DevSecOps
+- 🦄 DevSecOps
   - ELK
   - SIEM
-  - Docker?
   - CircleCI
   - Github Actions
+  - Docker?
+  - DNS Management?
+  - Google Workspace / O365 Admin?
   - Hey it's difficult to list about DevSecOps!
-- Cloud (Order matters)
-  - AWS (4x Certification Holder, btw I gave presentation in AWS's talk and Youtube video too.)
+- ☁️ Cloud (Order matters)
+  - AWS (4x Certification Holder, btw I gave presentation in AWS's [talk](https://www.slideshare.net/AmazonWebServices/virtualinsurersnewtoolsforanewworld) and [Youtube video](https://www.youtube.com/watch?v=o5TM9P8U6EY) too.)
   - CloudFlare
   - Netlify
   - Azure
   - GCP
   - Heroku
-- Tracking/SEO
+- 📈 Tracking/SEO
   - Structured Data
   - Page Audits
   - Website SEO/Speed enhancements
   - Google Tag Manager / Google Optimize / Google Analytics / Google Search Console
-- CMS
+- 📝 CMS
   - WordPress
   - Webflow
   - Netlify (CMS)
-- Google Apps Engine (With integration with Spreadsheets/Forms - I am serious. Ideation is very important.)
-- Full Stack Hardcoder
-  
+- 📎 Google Apps Engine (With integration with Spreadsheets/Forms - I am serious. Ideation is very important.)
+- 💎 Full Stack Hardcoder
+- 🐧 Linux User
+  - Ubuntu, Kali, Raspbian...
+  - Raspbarry PI & Pinebook Pro user
+
+### (Strong) Preferences
+- Dark Theme >>>>>>>>> Light Theme (Darth Vader breathing sound)
+- VS Code > Jetbrains
+- Mac > Linux > Windows
+- `'` > `"` (Except HTML attributes)
+- `YAML` > `JSON`
+- Always make good use of URI when sharing things.
+
 ### Other Stuff
 - 🎓 Actuarial Science (That's my undergraduate degree, took the first five examinations but has just given up 🤷🏻‍♂️)
 - 🚀 Bitcoin:Ethereum = 1:1 (Hodler since 2016) 🌕
 - ☂️ Insurance (Hong Kong local market 🇭🇰)
-- Machine Learning (That was the source for my initial crypto portfolio - [check this out](https://numer.ai/))
+- 🤖 Machine Learning (That was the source for my initial crypto portfolio - [check this out](https://numer.ai/))
 - 📊 Statistics
 - 💰 Finance
-- ♾ Mathematical Analysis
+- ♾ Mathematical Analysis (Like why we can integrate a Brownian motion r.v.)

@@ -1,15 +1,19 @@
 # gabrielkoo
 
-Account | Link
----|---
-Email | [hi@gabrielkoo.com](mailto:hi@gabrielkoo.com?title=Hi%20Gabriel)
-LinkedIn | https://www.linkedin.com/in/gabriel-koo/
-GitHub | [@gabrielkoo](https://github.com/gabrielkoo) (But you are already here right)
-Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
+## Bio
 
-## What I (may) know about:
+DevSecOps Engineer, Cloud Engineer, Full Stack Developer, SEO Engineer, Data Scientist
 
-### Languages
+## More about me
+- 🎓 Actuarial Science (That's my undergraduate degree, took the first five examinations but has just given up 🤷🏻‍♂️)
+- 🚀 Bitcoin:Ethereum = 1:1 (Hodler since 2016) 🌕
+- ☂️ Insurance (Hong Kong local market 🇭🇰)
+- 🤖 Machine Learning (That was the source for my initial crypto portfolio - [check this out](https://numer.ai/))
+- 📊 Statistics
+- 💰 Finance
+- ♾ Mathematical Analysis (Like why we can integrate a Brownian motion r.v.)
+
+## Languages
 - 🇭🇰 Cantonese
 - 🇬🇧 English
 - 🇯🇵 Japanese (N4 but ~native~ fluent speaker)
@@ -24,7 +28,7 @@ Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
   - C++
 - 🔍 SQL should be an essential skill right 🧐
 
-### Knowledge
+## Knowledge
 - 🦄 DevSecOps
   - ELK
   - SIEM
@@ -57,22 +61,22 @@ Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
   - Ubuntu, Kali, Raspbian, Fedora...
   - Raspbarry PI & Pinebook Pro user
 
-### (Strong) Preferences
+## (Strong) Preferences
 - Dark Theme >>>>>>>>> Light Theme (Darth Vader breathing sound)
 - VS Code > Jetbrains
 - Mac > Linux > Windows
 - `'` > `"` (Except HTML attributes)
 - `YAML` > `JSON`
+- Authy > Google Authenticator
 - Always make good use of URI when sharing things.
 - https://www.google.com/search?q=your+problem+here
 
-### Other Stuff
-- 🎓 Actuarial Science (That's my undergraduate degree, took the first five examinations but has just given up 🤷🏻‍♂️)
-- 🚀 Bitcoin:Ethereum = 1:1 (Hodler since 2016) 🌕
-- ☂️ Insurance (Hong Kong local market 🇭🇰)
-- 🤖 Machine Learning (That was the source for my initial crypto portfolio - [check this out](https://numer.ai/))
-- 📊 Statistics
-- 💰 Finance
-- ♾ Mathematical Analysis (Like why we can integrate a Brownian motion r.v.)
+## Contacts
+Account | Link
+---|---
+Email | [hi@gabrielkoo.com](mailto:hi@gabrielkoo.com?title=Hi%20Gabriel)
+LinkedIn | https://www.linkedin.com/in/gabriel-koo/
+GitHub | [@gabrielkoo](https://github.com/gabrielkoo) (But you are already here right)
+Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
 
-###### One last thing - I offer services as a paid consultant.
+###### One last thing - I offer services as a paid consultant. 💰

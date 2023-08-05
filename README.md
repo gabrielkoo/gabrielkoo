@@ -75,7 +75,7 @@ DevSecOps Engineer, Cloud Engineer, Full Stack Developer, SEO Engineer, Data Sci
 Account | Link
 ---|---
 Email | [hi@gabrielkoo.com](mailto:hi@gabrielkoo.com?title=Hi%20Gabriel)
-LinkedIn | https://www.linkedin.com/in/gabriel-koo/
+LinkedIn | https://www.linkedin.com/in/gabrielkoo/
 GitHub | [@gabrielkoo](https://github.com/gabrielkoo) (But you are already here right)
 Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
 

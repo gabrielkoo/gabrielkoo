@@ -1,8 +1,8 @@
 # gabrielkoo
 
-## Bio
+DevSecOps Engineer, Cloud Engineer, Full Stack Developer, SEO Engineer, Data Scientist, Recently playing GenAI too.
 
-DevSecOps Engineer, Cloud Engineer, Full Stack Developer, SEO Engineer, Data Scientist
+AWS Community Builder from 2022.
 
 ## More about me
 - 🎓 Actuarial Science (That's my undergraduate degree, took the first five examinations but has just given up 🤷🏻‍♂️)
@@ -13,23 +13,9 @@ DevSecOps Engineer, Cloud Engineer, Full Stack Developer, SEO Engineer, Data Sci
 - 💰 Finance
 - ♾ Mathematical Analysis (Like why we can integrate a Brownian motion r.v.)
 
-## Languages
-- 🇭🇰 Cantonese
-- 🇬🇧 English
-- 🇯🇵 Japanese (N4 but ~native~ fluent speaker)
-- 🐍 Python: django, django-rest-framework, OpenCV, selenium, scikit-learn
-- 🕸 NodeJS / JavaScript: React, Material UI, Gatsby, d3, jQuery (I'm sorry)
-- 🤯 Used before but basically zero knowledge now if I'm without Google:
-  - VBA
-  - PHP
-  - MATLAB
-  - R
-  - Java
-  - C++
-- 🔍 SQL should be an essential skill right 🧐
-
 ## Knowledge
-- 🦄 DevSecOps
+<details>
+  <summary>🦄 DevSecOps</summary>
   - ELK
   - SIEM
   - CircleCI
@@ -38,38 +24,50 @@ DevSecOps Engineer, Cloud Engineer, Full Stack Developer, SEO Engineer, Data Sci
   - DNS Management?
   - Google Workspace / O365 Admin?
   - Hey it's difficult to list about DevSecOps!
-- ☁️ Cloud (Order matters)
+  </details>
+<details>
+  <summary>☁️ Cloud (Order matters)</summary>
   - AWS (4x Certification Holder, btw I gave presentation in AWS's [talk](https://www.slideshare.net/AmazonWebServices/virtualinsurersnewtoolsforanewworld) and [Youtube video](https://www.youtube.com/watch?v=o5TM9P8U6EY) too.)
   - CloudFlare
   - Netlify
   - Azure
   - GCP
-  - Heroku
-- 📈 Tracking/SEO - I work well with SEO specialists for their goals (who don't know tech much)
-  - Structured Data
-  - Page Audits
-  - Website SEO/Speed enhancements
-  - Google Tag Manager / Google Optimize / Google Analytics / Google Search Console
-- 📝 CMS
-  - WordPress
-  - Webflow
-  - Netlify (CMS)
-  - WIX
-- 📎 Google Apps Engine (With integration with Spreadsheets/Forms - I am serious. Ideation is very important.)
-- 💎 Full Stack Hardcoder
-- 🐧 Linux User
+  - ~Heroku (No longer using it after it's free tier is gone~
+</details>
+<details>
+  <summary>📈 Tracking/SEO - I work well with SEO specialists for their goals (who don't know tech much)</summary>
+  Structured Data, Page Audits, Website SEO/Speed enhancements, Google Tag Manager / Google Optimize / Google Analytics / Google Search Console
+  </details>
+<details>
+  <summary>📝 CMS</summary>
+  WordPress, Webflow, Netlify (CMS), WIX
+  </details>
+<details>
+  <summary>🐧 Linux User</summary>
   - Ubuntu, Kali, Raspbian, Fedora...
   - Raspbarry PI & Pinebook Pro user
+</details>
+<details>
+  <summary>🌐 Languages</summary>
 
-## (Strong) Preferences
-- Dark Theme >>>>>>>>> Light Theme (Darth Vader breathing sound)
-- VS Code > Jetbrains
-- Mac > Linux > Windows
-- `'` > `"` (Except HTML attributes)
-- `YAML` > `JSON`
-- Authy > Google Authenticator
-- Always make good use of URI when sharing things.
-- https://www.google.com/search?q=your+problem+here
+- 🇭🇰 Cantonese
+- 🇬🇧 English
+- 🇯🇵 Japanese (fluent speaker)
+
+- 🐍 Python: django, django-rest-framework, OpenCV, selenium, scikit-learn
+- 🕸 NodeJS / JavaScript: React, Material UI, Gatsby, d3, jQuery (I'm sorry)
+- 🤯 Used before but basically zero knowledge now if I'm without Google:
+  
+  `VBA, PHP, MATLAB, R, Java, C++`
+- 🔍 SQL should be an essential skill right 🧐
+</details>
+<details>
+  <summary>📎 Google Apps Engine</summary>
+  With integration with Spreadsheets/Forms - I am serious. Ideation is very important.
+  I created a hot desk booking system with purely GForms and GSheets with minimal Apps Script. It has been running since 2020 and running smoothly, saving the company a huge sum on a 3rd party solution.
+</details>
+
+💎 Full Stack Hardcoder
 
 ## Contacts
 Account | Link

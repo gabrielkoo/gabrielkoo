@@ -76,5 +76,6 @@ Email | [hi@gabrielkoo.com](mailto:hi@gabrielkoo.com?title=Hi%20Gabriel)
 LinkedIn | https://www.linkedin.com/in/gabrielkoo/
 GitHub | [@gabrielkoo](https://github.com/gabrielkoo) (But you are already here right)
 Twitter | [@gabrielkoo_](https://twitter.com/gabrielkoo_)
+Bluesky | [@gabrielkoo.bsky.social](https://bsky.app/profile/gabrielkoo.bsky.social)
 
 ###### One last thing - I offer services as a paid consultant. 💰

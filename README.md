@@ -2,7 +2,7 @@
 
 DevSecOps Engineer, Cloud Engineer, Full Stack Developer, SEO Engineer, Data Scientist, Recently playing GenAI too.
 
-AWS Community Builder from 2022.
+AWS Community Builder from 2022. Please do read my articles at <https://dev.to/gabrielkoo>!
 
 ## More about me
 - 🎓 Actuarial Science (That's my undergraduate degree, took the first five examinations but has just given up 🤷🏻‍♂️)

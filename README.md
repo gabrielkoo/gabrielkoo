@@ -6,9 +6,8 @@ AWS Community Builder from 2022. Please do read my articles at <https://dev.to/g
 
 ## More about me
 - 🎓 Actuarial Science (That's my undergraduate degree, took the first five examinations but has just given up 🤷🏻‍♂️)
-- 🚀 Bitcoin:Ethereum = 1:1 (Hodler since 2016) 🌕
 - ☂️ Insurance (Hong Kong local market 🇭🇰)
-- 🤖 Machine Learning (That was the source for my initial crypto portfolio - [check this out](https://numer.ai/))
+- 🤖 Machine Learning
 - 📊 Statistics
 - 💰 Finance
 - ♾ Mathematical Analysis (Like why we can integrate a Brownian motion r.v.)

@@ -11,3 +11,9 @@
 ✍️ **Writing:** [https://dev.to/gabrielkoo](https://dev.to/gabrielkoo)
 
 💼 **LinkedIn:** [https://linkedin.com/in/gabrielkoo](https://linkedin.com/in/gabrielkoo)
+
+---
+
+![Dev.to Article Activity](https://raw.githubusercontent.com/gabrielkoo/devto-stats-github-action/refs/heads/main/graphs/devto_combined_graph.svg)
+
+![Top 3 Dev.to Articles](https://raw.githubusercontent.com/gabrielkoo/devto-stats-github-action/refs/heads/main/graphs/top_3_views.svg)

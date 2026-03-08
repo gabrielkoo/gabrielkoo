@@ -50,6 +50,7 @@ jobs:
               'language': d['language'],
               'url': d['html_url'],
               'topics': d.get('topics', []),
+              'updated_at': d['updated_at'],
             }
             for d in all_repos
             if not d['fork']

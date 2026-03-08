@@ -2,7 +2,7 @@
 
 🔗 **Chat with my profile on:** [NotebookLM](https://notebooklm.google.com/notebook/e22628a8-36a5-4482-b6ce-a7b720ec35de)
 
-📧 **Email:** [mailto\:hi@gab.hk](mailto:hi@gab.hk)
+📧 **Email:** [hi@gabrielkoo.com](mailto:hi@gabrielkoo.com) / [hi@gab.hk](mailto:hi@gab.hk)
 
 🌐 **Website:** [https://gabrielkoo.com](https://gabrielkoo.com)
 

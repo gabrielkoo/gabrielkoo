@@ -6,7 +6,8 @@
     "forks": 0,
     "language": "HTML",
     "url": "https://github.com/gabrielkoo/devto",
-    "topics": []
+    "topics": [],
+    "updated_at": "2026-03-04T00:57:25Z"
   },
   {
     "name": "bedrock-web-search-proxy",
@@ -15,7 +16,8 @@
     "forks": 0,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/bedrock-web-search-proxy",
-    "topics": []
+    "topics": [],
+    "updated_at": "2026-02-23T14:36:13Z"
   },
   {
     "name": "test-official-amazon-bedrock-openai-compatible-endpoint",
@@ -30,7 +32,8 @@
       "openai",
       "openai-api",
       "openai-sdk"
-    ]
+    ],
+    "updated_at": "2025-10-15T14:43:00Z"
   },
   {
     "name": "devto-stats-github-action",
@@ -43,7 +46,8 @@
       "actions",
       "devto",
       "kiro-ide"
-    ]
+    ],
+    "updated_at": "2026-03-08T00:15:41Z"
   },
   {
     "name": "q-dependabot",
@@ -52,7 +56,8 @@
     "forks": 0,
     "language": "Shell",
     "url": "https://github.com/gabrielkoo/q-dependabot",
-    "topics": []
+    "topics": [],
+    "updated_at": "2025-07-21T01:34:55Z"
   },
   {
     "name": "amazon-q-developer-cli-webui",
@@ -61,7 +66,8 @@
     "forks": 5,
     "language": "JavaScript",
     "url": "https://github.com/gabrielkoo/amazon-q-developer-cli-webui",
-    "topics": []
+    "topics": [],
+    "updated_at": "2026-02-22T23:35:21Z"
   },
   {
     "name": "amazonq-plasma-sword-fighter-game",
@@ -74,7 +80,8 @@
       "amazon-q-cli",
       "amazon-q-developer",
       "genai"
-    ]
+    ],
+    "updated_at": "2025-06-19T03:09:38Z"
   },
   {
     "name": "gabrielkoo",
@@ -83,7 +90,8 @@
     "forks": 0,
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
-    "topics": []
+    "topics": [],
+    "updated_at": "2026-03-08T12:09:54Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -92,7 +100,8 @@
     "forks": 0,
     "language": null,
     "url": "https://github.com/gabrielkoo/aws-systems-manager-runbook-for-security",
-    "topics": []
+    "topics": [],
+    "updated_at": "2025-05-03T07:52:09Z"
   },
   {
     "name": "aws-route53-dns-firewall-logging-cfn",
@@ -107,7 +116,8 @@
       "route53-resolver",
       "route53-resolver-firewall",
       "security"
-    ]
+    ],
+    "updated_at": "2025-04-27T04:34:44Z"
   },
   {
     "name": "tailscale-config-for-ai-services",
@@ -127,7 +137,8 @@
       "openai",
       "proxy",
       "tailscale"
-    ]
+    ],
+    "updated_at": "2026-03-06T04:18:16Z"
   },
   {
     "name": "twitter-post-metric-badge",
@@ -136,7 +147,8 @@
     "forks": 0,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/twitter-post-metric-badge",
-    "topics": []
+    "topics": [],
+    "updated_at": "2025-02-24T02:25:51Z"
   },
   {
     "name": "scalable-stateful-streamlit-chatbot-on-aws",
@@ -158,7 +170,8 @@
       "scalable",
       "stateful",
       "streamlit"
-    ]
+    ],
+    "updated_at": "2025-04-16T20:21:49Z"
   },
   {
     "name": "bedrock-access-gateway-function-url",
@@ -177,7 +190,8 @@
       "proxy",
       "sam",
       "serverless"
-    ]
+    ],
+    "updated_at": "2026-03-02T11:54:56Z"
   },
   {
     "name": "github-skyline",
@@ -186,7 +200,8 @@
     "forks": 0,
     "language": null,
     "url": "https://github.com/gabrielkoo/github-skyline",
-    "topics": []
+    "topics": [],
+    "updated_at": "2024-12-09T16:37:54Z"
   },
   {
     "name": "wireguard-configs-for-ai-services",
@@ -205,7 +220,8 @@
       "proxy",
       "split-tunnel",
       "wireguard"
-    ]
+    ],
+    "updated_at": "2026-03-06T04:18:15Z"
   },
   {
     "name": "openvpn-configs-for-ai-services",
@@ -225,7 +241,8 @@
       "ovpn",
       "proxy",
       "split-tunnel"
-    ]
+    ],
+    "updated_at": "2025-02-24T15:50:22Z"
   },
   {
     "name": "insta-post-link-extractor",
@@ -239,7 +256,8 @@
       "aws-sam",
       "instagram",
       "shortcuts"
-    ]
+    ],
+    "updated_at": "2024-11-16T02:36:07Z"
   },
   {
     "name": "aws-iam-identity-center-shortcut-portal",
@@ -253,7 +271,8 @@
       "aws-sso",
       "iam-role",
       "shortcuts"
-    ]
+    ],
+    "updated_at": "2024-10-28T04:45:14Z"
   },
   {
     "name": "self-learning-rag-it-support-slackbot",
@@ -269,7 +288,8 @@
       "claude",
       "rag",
       "serverless"
-    ]
+    ],
+    "updated_at": "2025-01-10T05:09:11Z"
   },
   {
     "name": "hong-kong-public-holiday-api",
@@ -278,7 +298,8 @@
     "forks": 0,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/hong-kong-public-holiday-api",
-    "topics": []
+    "topics": [],
+    "updated_at": "2025-01-05T10:37:29Z"
   },
   {
     "name": "safeaws-cli",
@@ -297,7 +318,8 @@
       "claude",
       "genai",
       "llm"
-    ]
+    ],
+    "updated_at": "2024-11-28T06:06:56Z"
   },
   {
     "name": "usagi",
@@ -306,7 +328,8 @@
     "forks": 0,
     "language": "HTML",
     "url": "https://github.com/gabrielkoo/usagi",
-    "topics": []
+    "topics": [],
+    "updated_at": "2024-01-24T13:00:54Z"
   },
   {
     "name": "chatgpt-faq-slack-bot",
@@ -333,7 +356,8 @@
       "slack",
       "slack-bot",
       "slackbot"
-    ]
+    ],
+    "updated_at": "2025-04-14T13:23:55Z"
   },
   {
     "name": "eud-to-hkd-wo-tax",
@@ -342,7 +366,8 @@
     "forks": 1,
     "language": "HTML",
     "url": "https://github.com/gabrielkoo/eud-to-hkd-wo-tax",
-    "topics": []
+    "topics": [],
+    "updated_at": "2023-04-03T14:05:35Z"
   },
   {
     "name": "aws-console-switch-role-portal",
@@ -356,7 +381,8 @@
       "aws",
       "aws-console",
       "switch-role"
-    ]
+    ],
+    "updated_at": "2025-02-01T01:13:37Z"
   },
   {
     "name": "json-ld-breadcrumb",
@@ -372,7 +398,8 @@
       "schema-org",
       "seo",
       "structured-data"
-    ]
+    ],
+    "updated_at": "2021-02-05T17:31:57Z"
   },
   {
     "name": "aws-systemmanager-automation-roles",
@@ -391,7 +418,8 @@
       "aws-systemmanager",
       "devops",
       "iam"
-    ]
+    ],
+    "updated_at": "2021-02-02T23:09:51Z"
   },
   {
     "name": "gabrielkoo.github.io",
@@ -400,6 +428,7 @@
     "forks": 0,
     "language": "HTML",
     "url": "https://github.com/gabrielkoo/gabrielkoo.github.io",
-    "topics": []
+    "topics": [],
+    "updated_at": "2026-03-07T01:59:17Z"
   }
 ]

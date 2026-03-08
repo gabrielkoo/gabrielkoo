@@ -1,0 +1,405 @@
+[
+  {
+    "name": "devto",
+    "description": "dev.to article analytics dashboard",
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "url": "https://github.com/gabrielkoo/devto",
+    "topics": []
+  },
+  {
+    "name": "bedrock-web-search-proxy",
+    "description": "Drop-in Perplexity Sonar API replacement backed by AWS Bedrock Nova web grounding",
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/bedrock-web-search-proxy",
+    "topics": []
+  },
+  {
+    "name": "test-official-amazon-bedrock-openai-compatible-endpoint",
+    "description": "Amazon Bedrock launched the official OpenAI compatible endpoint on 2025-08-05 - This repository contains a list of tests on the actual OpenAI features/parameters compatibility.",
+    "stars": 1,
+    "forks": 0,
+    "language": "Shell",
+    "url": "https://github.com/gabrielkoo/test-official-amazon-bedrock-openai-compatible-endpoint",
+    "topics": [
+      "amazon-bedrock",
+      "aws",
+      "openai",
+      "openai-api",
+      "openai-sdk"
+    ]
+  },
+  {
+    "name": "devto-stats-github-action",
+    "description": "A GitHub Action that updates your Dev.to articles metrics daily into JSON data and SVG badges.",
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/devto-stats-github-action",
+    "topics": [
+      "actions",
+      "devto",
+      "kiro-ide"
+    ]
+  },
+  {
+    "name": "q-dependabot",
+    "description": "A user-driven dependency monitoring solution powered by Amazon Q Developer CLI that generates intelligent package release digests and update recommendations for your projects.",
+    "stars": 0,
+    "forks": 0,
+    "language": "Shell",
+    "url": "https://github.com/gabrielkoo/q-dependabot",
+    "topics": []
+  },
+  {
+    "name": "amazon-q-developer-cli-webui",
+    "description": "There isn't an official UI for the Q CLI, so I vibe coded one.",
+    "stars": 19,
+    "forks": 5,
+    "language": "JavaScript",
+    "url": "https://github.com/gabrielkoo/amazon-q-developer-cli-webui",
+    "topics": []
+  },
+  {
+    "name": "amazonq-plasma-sword-fighter-game",
+    "description": "Generate purely by Amazon Q Developer CLI.",
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/amazonq-plasma-sword-fighter-game",
+    "topics": [
+      "amazon-q-cli",
+      "amazon-q-developer",
+      "genai"
+    ]
+  },
+  {
+    "name": "gabrielkoo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/gabrielkoo",
+    "topics": []
+  },
+  {
+    "name": "aws-systems-manager-runbook-for-security",
+    "description": "For AWS Summit Hong Kong 2025 Dev Chat - Empower Devs with Least Privilege: AWS Systems Manager Automation for Secure Self-Served Operations",
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/aws-systems-manager-runbook-for-security",
+    "topics": []
+  },
+  {
+    "name": "aws-route53-dns-firewall-logging-cfn",
+    "description": "Protect any AWS VPC from malicious domains and capture every DNS query for observability\u2014all in one drop-in stack.",
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/aws-route53-dns-firewall-logging-cfn",
+    "topics": [
+      "aws",
+      "dns",
+      "route53-resolver",
+      "route53-resolver-firewall",
+      "security"
+    ]
+  },
+  {
+    "name": "tailscale-config-for-ai-services",
+    "description": "About Using ChatGPT/Gemini/Anthropic/Amazon Bedrock with Tailscale with an app connector, from an unrestricted region.",
+    "stars": 5,
+    "forks": 1,
+    "language": "JavaScript",
+    "url": "https://github.com/gabrielkoo/tailscale-config-for-ai-services",
+    "topics": [
+      "anthropic",
+      "apple-intelligence",
+      "bedrock",
+      "chatgpt",
+      "generative-ai",
+      "google-gemini",
+      "notebooklm",
+      "openai",
+      "proxy",
+      "tailscale"
+    ]
+  },
+  {
+    "name": "twitter-post-metric-badge",
+    "description": "API to Render SVG Badge for X (Twitter) Post Metric, hosted on AWS SAM",
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/twitter-post-metric-badge",
+    "topics": []
+  },
+  {
+    "name": "scalable-stateful-streamlit-chatbot-on-aws",
+    "description": "Streamlit Chatbot build on AWS that is Truly Scalable Stateful",
+    "stars": 1,
+    "forks": 1,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/scalable-stateful-streamlit-chatbot-on-aws",
+    "topics": [
+      "aws",
+      "bedrock",
+      "chatbot",
+      "docker",
+      "ecs",
+      "efs",
+      "fargate",
+      "genai",
+      "python",
+      "scalable",
+      "stateful",
+      "streamlit"
+    ]
+  },
+  {
+    "name": "bedrock-access-gateway-function-url",
+    "description": "OpenAI-Compatible RESTful APIs for Amazon Bedrock, modified from the original \"bedrock-access-gateway\" project for not using ALB, so that one could deploy and use it under a pay as you go model WITH NO FIXED COSTS.",
+    "stars": 19,
+    "forks": 4,
+    "language": "Shell",
+    "url": "https://github.com/gabrielkoo/bedrock-access-gateway-function-url",
+    "topics": [
+      "bedrock",
+      "genai",
+      "openai",
+      "openai-api",
+      "openai-proxy",
+      "pay-as-you-go",
+      "proxy",
+      "sam",
+      "serverless"
+    ]
+  },
+  {
+    "name": "github-skyline",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/github-skyline",
+    "topics": []
+  },
+  {
+    "name": "wireguard-configs-for-ai-services",
+    "description": "Using ChatGPT/Gemini/AppleIntelligence with WireGuard include tunneling, from an unrestricted region.",
+    "stars": 5,
+    "forks": 1,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/wireguard-configs-for-ai-services",
+    "topics": [
+      "apple-intelligence",
+      "chatgpt",
+      "generative-ai",
+      "google-gemini",
+      "notebooklm",
+      "openai",
+      "proxy",
+      "split-tunnel",
+      "wireguard"
+    ]
+  },
+  {
+    "name": "openvpn-configs-for-ai-services",
+    "description": "Using ChatGPT/Gemini/AppleIntelligence with OpenVPN include tunneling, from an unrestricted region.",
+    "stars": 1,
+    "forks": 0,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/openvpn-configs-for-ai-services",
+    "topics": [
+      "apple-intelligence",
+      "chatgpt",
+      "generative-ai",
+      "google-gemini",
+      "notebooklm",
+      "openai",
+      "openvpn",
+      "ovpn",
+      "proxy",
+      "split-tunnel"
+    ]
+  },
+  {
+    "name": "insta-post-link-extractor",
+    "description": "Save 10s on opening links in an Instagram post description, which are originally non-clickable.",
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/insta-post-link-extractor",
+    "topics": [
+      "automation",
+      "aws-sam",
+      "instagram",
+      "shortcuts"
+    ]
+  },
+  {
+    "name": "aws-iam-identity-center-shortcut-portal",
+    "description": "A web-based interface for managing shortcuts to AWS IAM Identity Center access roles.",
+    "stars": 1,
+    "forks": 0,
+    "language": "JavaScript",
+    "url": "https://github.com/gabrielkoo/aws-iam-identity-center-shortcut-portal",
+    "topics": [
+      "aws-identity-center",
+      "aws-sso",
+      "iam-role",
+      "shortcuts"
+    ]
+  },
+  {
+    "name": "self-learning-rag-it-support-slackbot",
+    "description": "IT Support Slack Bot that self-learns and have access to knowledge base, with search and browsing tools.",
+    "stars": 2,
+    "forks": 1,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/self-learning-rag-it-support-slackbot",
+    "topics": [
+      "ai-agent",
+      "aurora-serverless",
+      "bedrock",
+      "claude",
+      "rag",
+      "serverless"
+    ]
+  },
+  {
+    "name": "hong-kong-public-holiday-api",
+    "description": "API for Hong Kong's public holiday, updated automatically from 1823's API.",
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/hong-kong-public-holiday-api",
+    "topics": []
+  },
+  {
+    "name": "safeaws-cli",
+    "description": "\u201cSafe-W-S\u201d, wrapper for AWS CLI that locates issues before executing",
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/safeaws-cli",
+    "topics": [
+      "amazon-bedrock",
+      "aws",
+      "aws-cli",
+      "awscli",
+      "awscliv2",
+      "bedrock",
+      "claude",
+      "genai",
+      "llm"
+    ]
+  },
+  {
+    "name": "usagi",
+    "description": "That Usagi from Chiikawa",
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "url": "https://github.com/gabrielkoo/usagi",
+    "topics": []
+  },
+  {
+    "name": "chatgpt-faq-slack-bot",
+    "description": "A user-trainable Knowledge Base / FAQ Slack Bot on AWS SAM based on ChatGPT and Embeddings.",
+    "stars": 21,
+    "forks": 4,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/chatgpt-faq-slack-bot",
+    "topics": [
+      "aws",
+      "aws-lambda",
+      "chatbot",
+      "chatgpt",
+      "embedding",
+      "faq",
+      "kbqa",
+      "knowledge-base",
+      "openai",
+      "qna",
+      "question-answering",
+      "retrieval-augmented-generation",
+      "sam",
+      "serverless",
+      "slack",
+      "slack-bot",
+      "slackbot"
+    ]
+  },
+  {
+    "name": "eud-to-hkd-wo-tax",
+    "description": "Generated by ChatGPT",
+    "stars": 0,
+    "forks": 1,
+    "language": "HTML",
+    "url": "https://github.com/gabrielkoo/eud-to-hkd-wo-tax",
+    "topics": []
+  },
+  {
+    "name": "aws-console-switch-role-portal",
+    "description": "A portal for AWS role switching, for security-aware professionals.",
+    "stars": 0,
+    "forks": 0,
+    "language": "TypeScript",
+    "url": "https://github.com/gabrielkoo/aws-console-switch-role-portal",
+    "topics": [
+      "assume-role",
+      "aws",
+      "aws-console",
+      "switch-role"
+    ]
+  },
+  {
+    "name": "json-ld-breadcrumb",
+    "description": "Generate breadcrumb in JSON-LD format and inject into HTML (P.S. Random afternoon tea project)",
+    "stars": 1,
+    "forks": 0,
+    "language": "JavaScript",
+    "url": "https://github.com/gabrielkoo/json-ld-breadcrumb",
+    "topics": [
+      "breadcrumb",
+      "google-search",
+      "json-ld",
+      "schema-org",
+      "seo",
+      "structured-data"
+    ]
+  },
+  {
+    "name": "aws-systemmanager-automation-roles",
+    "description": "Generate IAM Roles for AWS System Manager Automation Documents",
+    "stars": 1,
+    "forks": 2,
+    "language": "Python",
+    "url": "https://github.com/gabrielkoo/aws-systemmanager-automation-roles",
+    "topics": [
+      "aws",
+      "aws-automation",
+      "aws-config",
+      "aws-config-rules",
+      "aws-iam",
+      "aws-role",
+      "aws-systemmanager",
+      "devops",
+      "iam"
+    ]
+  },
+  {
+    "name": "gabrielkoo.github.io",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "url": "https://github.com/gabrielkoo/gabrielkoo.github.io",
+    "topics": []
+  }
+]

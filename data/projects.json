@@ -2,12 +2,12 @@
   {
     "name": "aws-lambda-whisper-adaptor",
     "description": "Deepgram & OpenAI compatible speech-to-text on AWS Lambda using faster-whisper",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/aws-lambda-whisper-adaptor",
     "topics": [],
-    "updated_at": "2026-03-13T00:00:48Z"
+    "updated_at": "2026-03-14T19:48:37Z"
   },
   {
     "name": "devto",
@@ -22,12 +22,12 @@
   {
     "name": "bedrock-web-search-proxy",
     "description": "Drop-in Perplexity Sonar API replacement backed by AWS Bedrock Nova web grounding",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/bedrock-web-search-proxy",
     "topics": [],
-    "updated_at": "2026-02-23T14:36:13Z"
+    "updated_at": "2026-03-14T15:35:08Z"
   },
   {
     "name": "test-official-amazon-bedrock-openai-compatible-endpoint",
@@ -57,7 +57,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-03-14T00:15:53Z"
+    "updated_at": "2026-03-15T00:19:47Z"
   },
   {
     "name": "q-dependabot",
@@ -101,7 +101,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-03-13T02:55:52Z"
+    "updated_at": "2026-03-14T02:54:56Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",

@@ -1,5 +1,15 @@
 [
   {
+    "name": "agentcon-2026-hk-demo",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/agentcon-2026-hk-demo",
+    "topics": [],
+    "updated_at": "2026-04-10T14:47:28Z"
+  },
+  {
     "name": "aws-lambda-whisper-adaptor",
     "description": "Deepgram & OpenAI compatible speech-to-text on AWS Lambda using faster-whisper",
     "stars": 1,
@@ -57,7 +67,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-04-10T00:20:23Z"
+    "updated_at": "2026-04-11T00:19:24Z"
   },
   {
     "name": "q-dependabot",
@@ -101,7 +111,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-04-09T03:02:11Z"
+    "updated_at": "2026-04-10T03:03:07Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -132,7 +142,7 @@
   {
     "name": "tailscale-config-for-ai-services",
     "description": "About Using ChatGPT/Gemini/Anthropic/Amazon Bedrock with Tailscale with an app connector, from an unrestricted region.",
-    "stars": 5,
+    "stars": 6,
     "forks": 1,
     "language": "JavaScript",
     "url": "https://github.com/gabrielkoo/tailscale-config-for-ai-services",
@@ -148,7 +158,7 @@
       "proxy",
       "tailscale"
     ],
-    "updated_at": "2026-03-15T14:26:38Z"
+    "updated_at": "2026-04-10T09:58:08Z"
   },
   {
     "name": "twitter-post-metric-badge",

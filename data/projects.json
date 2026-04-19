@@ -1,5 +1,15 @@
 [
   {
+    "name": "otlp-cloudwatch-proxy",
+    "description": "Lambdaless OTLP proxy to Amazon CloudWatch. Routes OpenTelemetry telemetry through API Gateway REST API with SigV4 signing. No Lambda. No collector. No code.",
+    "stars": 0,
+    "forks": 0,
+    "language": null,
+    "url": "https://github.com/gabrielkoo/otlp-cloudwatch-proxy",
+    "topics": [],
+    "updated_at": "2026-04-18T12:44:49Z"
+  },
+  {
     "name": "agentcon-2026-hk-demo",
     "description": null,
     "stars": 2,
@@ -67,7 +77,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-04-18T00:22:12Z"
+    "updated_at": "2026-04-19T00:23:17Z"
   },
   {
     "name": "q-dependabot",
@@ -111,7 +121,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-04-17T03:02:51Z"
+    "updated_at": "2026-04-18T03:02:07Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",

@@ -77,7 +77,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-06-04T00:46:15Z"
+    "updated_at": "2026-06-05T00:38:56Z"
   },
   {
     "name": "q-dependabot",
@@ -121,7 +121,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-06-03T03:07:20Z"
+    "updated_at": "2026-06-04T03:06:33Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -256,7 +256,7 @@
   {
     "name": "openvpn-configs-for-ai-services",
     "description": "Using ChatGPT/Gemini/AppleIntelligence with OpenVPN include tunneling, from an unrestricted region.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "language": null,
     "url": "https://github.com/gabrielkoo/openvpn-configs-for-ai-services",
@@ -272,7 +272,7 @@
       "proxy",
       "split-tunnel"
     ],
-    "updated_at": "2026-05-30T09:05:33Z"
+    "updated_at": "2026-06-05T00:49:57Z"
   },
   {
     "name": "insta-post-link-extractor",

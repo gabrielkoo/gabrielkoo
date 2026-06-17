@@ -32,12 +32,12 @@
   {
     "name": "aws-lambda-whisper-adaptor",
     "description": "Deepgram & OpenAI compatible speech-to-text on AWS Lambda using faster-whisper",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/aws-lambda-whisper-adaptor",
     "topics": [],
-    "updated_at": "2026-03-14T19:48:37Z"
+    "updated_at": "2026-06-16T03:48:34Z"
   },
   {
     "name": "devto",
@@ -87,7 +87,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-06-16T00:47:21Z"
+    "updated_at": "2026-06-17T00:42:34Z"
   },
   {
     "name": "q-dependabot",
@@ -131,7 +131,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-06-15T03:07:15Z"
+    "updated_at": "2026-06-16T03:06:27Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",

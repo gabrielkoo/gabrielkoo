@@ -87,7 +87,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-06-19T00:46:56Z"
+    "updated_at": "2026-06-20T00:37:52Z"
   },
   {
     "name": "q-dependabot",
@@ -131,7 +131,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-06-18T03:05:33Z"
+    "updated_at": "2026-06-19T03:06:42Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -161,8 +161,8 @@
   },
   {
     "name": "tailscale-config-for-ai-services",
-    "description": "About Using ChatGPT/Gemini/Anthropic/Amazon Bedrock with Tailscale with an app connector, from an unrestricted region.",
-    "stars": 10,
+    "description": "About Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with Tailscale with an app connector, from an unrestricted region.",
+    "stars": 11,
     "forks": 1,
     "language": "JavaScript",
     "url": "https://github.com/gabrielkoo/tailscale-config-for-ai-services",
@@ -178,7 +178,7 @@
       "proxy",
       "tailscale"
     ],
-    "updated_at": "2026-05-31T12:00:10Z"
+    "updated_at": "2026-06-19T10:27:41Z"
   },
   {
     "name": "twitter-post-metric-badge",
@@ -245,10 +245,10 @@
   },
   {
     "name": "wireguard-configs-for-ai-services",
-    "description": "Using ChatGPT/Gemini/AppleIntelligence with WireGuard include tunneling, from an unrestricted region.",
+    "description": "Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with WireGuard include tunneling, from an unrestricted region.",
     "stars": 7,
     "forks": 2,
-    "language": null,
+    "language": "Python",
     "url": "https://github.com/gabrielkoo/wireguard-configs-for-ai-services",
     "topics": [
       "apple-intelligence",
@@ -261,14 +261,14 @@
       "split-tunnel",
       "wireguard"
     ],
-    "updated_at": "2026-04-12T17:16:10Z"
+    "updated_at": "2026-06-19T10:27:56Z"
   },
   {
     "name": "openvpn-configs-for-ai-services",
-    "description": "Using ChatGPT/Gemini/AppleIntelligence with OpenVPN include tunneling, from an unrestricted region.",
+    "description": "Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with OpenVPN include tunneling, from an unrestricted region.",
     "stars": 3,
     "forks": 0,
-    "language": null,
+    "language": "Python",
     "url": "https://github.com/gabrielkoo/openvpn-configs-for-ai-services",
     "topics": [
       "apple-intelligence",
@@ -282,7 +282,7 @@
       "proxy",
       "split-tunnel"
     ],
-    "updated_at": "2026-06-05T00:49:57Z"
+    "updated_at": "2026-06-19T10:38:54Z"
   },
   {
     "name": "insta-post-link-extractor",

@@ -27,7 +27,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/agentcon-2026-hk-demo",
     "topics": [],
-    "updated_at": "2026-04-11T08:00:02Z"
+    "updated_at": "2026-06-20T04:14:24Z"
   },
   {
     "name": "aws-lambda-whisper-adaptor",
@@ -87,7 +87,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-06-20T00:37:52Z"
+    "updated_at": "2026-06-21T00:41:17Z"
   },
   {
     "name": "q-dependabot",
@@ -131,7 +131,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-06-19T03:06:42Z"
+    "updated_at": "2026-06-20T03:04:40Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -171,6 +171,7 @@
       "apple-intelligence",
       "bedrock",
       "chatgpt",
+      "claude",
       "generative-ai",
       "google-gemini",
       "notebooklm",
@@ -178,7 +179,7 @@
       "proxy",
       "tailscale"
     ],
-    "updated_at": "2026-06-19T10:27:41Z"
+    "updated_at": "2026-06-20T04:02:53Z"
   },
   {
     "name": "twitter-post-metric-badge",
@@ -251,8 +252,10 @@
     "language": "Python",
     "url": "https://github.com/gabrielkoo/wireguard-configs-for-ai-services",
     "topics": [
+      "anthropic",
       "apple-intelligence",
       "chatgpt",
+      "claude",
       "generative-ai",
       "google-gemini",
       "notebooklm",
@@ -261,7 +264,7 @@
       "split-tunnel",
       "wireguard"
     ],
-    "updated_at": "2026-06-19T10:27:56Z"
+    "updated_at": "2026-06-20T04:02:39Z"
   },
   {
     "name": "openvpn-configs-for-ai-services",
@@ -271,8 +274,10 @@
     "language": "Python",
     "url": "https://github.com/gabrielkoo/openvpn-configs-for-ai-services",
     "topics": [
+      "anthropic",
       "apple-intelligence",
       "chatgpt",
+      "claude",
       "generative-ai",
       "google-gemini",
       "notebooklm",
@@ -282,7 +287,7 @@
       "proxy",
       "split-tunnel"
     ],
-    "updated_at": "2026-06-19T10:38:54Z"
+    "updated_at": "2026-06-20T04:02:46Z"
   },
   {
     "name": "insta-post-link-extractor",

@@ -87,7 +87,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-07-17T02:01:20Z"
+    "updated_at": "2026-07-18T01:50:22Z"
   },
   {
     "name": "q-dependabot",
@@ -131,7 +131,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-07-16T04:54:10Z"
+    "updated_at": "2026-07-17T04:57:12Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -162,7 +162,7 @@
   {
     "name": "tailscale-config-for-ai-services",
     "description": "About Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with Tailscale with an app connector, from an unrestricted region.",
-    "stars": 14,
+    "stars": 15,
     "forks": 1,
     "language": "JavaScript",
     "url": "https://github.com/gabrielkoo/tailscale-config-for-ai-services",
@@ -179,7 +179,7 @@
       "proxy",
       "tailscale"
     ],
-    "updated_at": "2026-06-25T20:38:33Z"
+    "updated_at": "2026-07-17T10:55:14Z"
   },
   {
     "name": "twitter-post-metric-badge",

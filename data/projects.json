@@ -1,5 +1,21 @@
 [
   {
+    "name": "tourbillon",
+    "description": "Interactive procedurally generated 3D tourbillon study built with Three.js",
+    "stars": 0,
+    "forks": 0,
+    "language": "HTML",
+    "url": "https://github.com/gabrielkoo/tourbillon",
+    "topics": [
+      "github-pages",
+      "horology",
+      "threejs",
+      "tourbillon",
+      "webgl"
+    ],
+    "updated_at": "2026-09-13T09:59:39Z"
+  },
+  {
     "name": "tavily-oauth-mcp-wrapper",
     "description": "Per-user OAuth 2.1 in front of a shared-key API \u2014 Cognito + API Gateway + Lambda MCP wrapper. Companion to AgentCon HK 2026.",
     "stars": 0,
@@ -87,7 +103,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-09-13T02:30:32Z"
+    "updated_at": "2026-09-14T02:46:44Z"
   },
   {
     "name": "q-dependabot",
@@ -131,7 +147,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-09-12T06:43:56Z"
+    "updated_at": "2026-09-13T07:01:38Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",

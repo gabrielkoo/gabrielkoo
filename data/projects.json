@@ -103,7 +103,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-10-07T03:40:10Z"
+    "updated_at": "2026-10-08T03:53:56Z"
   },
   {
     "name": "q-dependabot",
@@ -147,7 +147,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-10-06T08:23:04Z"
+    "updated_at": "2026-10-07T07:59:12Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -308,7 +308,7 @@
   {
     "name": "insta-post-link-extractor",
     "description": "Save 10s on opening links in an Instagram post description, which are originally non-clickable.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/insta-post-link-extractor",
@@ -318,7 +318,7 @@
       "instagram",
       "shortcuts"
     ],
-    "updated_at": "2024-11-16T02:36:07Z"
+    "updated_at": "2026-10-07T16:13:45Z"
   },
   {
     "name": "aws-iam-identity-center-shortcut-portal",

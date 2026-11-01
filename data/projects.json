@@ -103,7 +103,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-10-31T03:35:20Z"
+    "updated_at": "2026-11-01T03:41:22Z"
   },
   {
     "name": "q-dependabot",
@@ -147,7 +147,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-10-30T07:55:38Z"
+    "updated_at": "2026-10-31T07:49:30Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -263,7 +263,7 @@
   {
     "name": "wireguard-configs-for-ai-services",
     "description": "Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with WireGuard include tunneling, from an unrestricted region.",
-    "stars": 13,
+    "stars": 14,
     "forks": 4,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/wireguard-configs-for-ai-services",
@@ -280,7 +280,7 @@
       "split-tunnel",
       "wireguard"
     ],
-    "updated_at": "2026-10-26T00:31:46Z"
+    "updated_at": "2026-10-31T11:08:05Z"
   },
   {
     "name": "openvpn-configs-for-ai-services",

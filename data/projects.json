@@ -103,7 +103,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-11-03T04:51:02Z"
+    "updated_at": "2026-11-04T04:17:54Z"
   },
   {
     "name": "q-dependabot",
@@ -147,7 +147,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-11-02T08:41:15Z"
+    "updated_at": "2026-11-03T08:52:35Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
@@ -178,7 +178,7 @@
   {
     "name": "tailscale-config-for-ai-services",
     "description": "About Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with Tailscale with an app connector, from an unrestricted region.",
-    "stars": 19,
+    "stars": 20,
     "forks": 1,
     "language": "JavaScript",
     "url": "https://github.com/gabrielkoo/tailscale-config-for-ai-services",
@@ -195,7 +195,7 @@
       "proxy",
       "tailscale"
     ],
-    "updated_at": "2026-10-20T05:40:31Z"
+    "updated_at": "2026-11-04T07:05:53Z"
   },
   {
     "name": "twitter-post-metric-badge",
@@ -263,7 +263,7 @@
   {
     "name": "wireguard-configs-for-ai-services",
     "description": "Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with WireGuard include tunneling, from an unrestricted region.",
-    "stars": 14,
+    "stars": 17,
     "forks": 4,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/wireguard-configs-for-ai-services",
@@ -280,12 +280,12 @@
       "split-tunnel",
       "wireguard"
     ],
-    "updated_at": "2026-10-31T11:08:05Z"
+    "updated_at": "2026-11-04T07:01:46Z"
   },
   {
     "name": "openvpn-configs-for-ai-services",
     "description": "Using OpenAI ChatGPT / Google Gemini / Anthropic Claude / Amazon Bedrock with OpenVPN include tunneling, from an unrestricted region.",
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "language": "Python",
     "url": "https://github.com/gabrielkoo/openvpn-configs-for-ai-services",
@@ -303,7 +303,7 @@
       "proxy",
       "split-tunnel"
     ],
-    "updated_at": "2026-10-12T07:58:15Z"
+    "updated_at": "2026-11-04T07:05:28Z"
   },
   {
     "name": "insta-post-link-extractor",

@@ -103,7 +103,7 @@
       "devto",
       "kiro-ide"
     ],
-    "updated_at": "2026-11-08T03:45:35Z"
+    "updated_at": "2026-11-09T03:58:04Z"
   },
   {
     "name": "q-dependabot",
@@ -119,7 +119,7 @@
     "name": "amazon-q-developer-cli-webui",
     "description": "There isn't an official UI for the Q CLI, so I vibe coded one.",
     "stars": 19,
-    "forks": 5,
+    "forks": 4,
     "language": "JavaScript",
     "url": "https://github.com/gabrielkoo/amazon-q-developer-cli-webui",
     "topics": [],
@@ -147,7 +147,7 @@
     "language": null,
     "url": "https://github.com/gabrielkoo/gabrielkoo",
     "topics": [],
-    "updated_at": "2026-11-07T08:04:56Z"
+    "updated_at": "2026-11-08T08:23:32Z"
   },
   {
     "name": "aws-systems-manager-runbook-for-security",
